@@ -1,0 +1,7 @@
+.editable-area input {
+    border: 0;
+    padding: 0;
+    width: 1px;
+    display: inline;
+    outline: none;
+}
